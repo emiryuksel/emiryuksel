@@ -1,21 +1,23 @@
 # 👋 Hi there, I'm Emir Yüksel
 
-Welcome to my GitHub! I'm a passionate full-stack developer with a strong background in **JavaScript**, **Node.js**, and **C#**. I enjoy solving complex problems, building scalable systems, and continuously learning new technologies.
+Welcome to my GitHub!  
+I'm a software developer currently learning full-stack development with a focus on **JavaScript**, **Node.js**, and **C#**. I enjoy solving problems, building projects from scratch, and continuously expanding my skills.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryuksel&layout=compact&theme=radical)
 
 ## 🚀 About Me
 
-- 🧑‍💻 Software Developer focused on full-stack and backend technologies  
-- 🔭 Currently working on backend infrastructure and developer tools  
-- 🌱 Always learning more about **system architecture**, **DevOps**, and **cloud engineering**  
-- 💬 Ask me about:
-  - Node.js and asynchronous programming
-  - .NET development
-  - RESTful APIs and backend scalability
+- 🎯 Focused on backend technologies like Node.js, Express, and .NET Core  
+- 🧱 Building a solid foundation in clean code and software architecture  
+- 🌱 Exploring new tools, frameworks, and best practices  
 - 📫 Reach me at: **hello@emiryuksel.site**
 - 🌐 Portfolio: [emiryuksel.site](https://emiryuksel.site)
 - 🔗 GitHub: [github.com/emiryuksel](https://github.com/emiryuksel)
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I'm Working With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
@@ -26,18 +28,13 @@ Welcome to my GitHub! I'm a passionate full-stack developer with a strong backgr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryuksel&layout=compact&theme=radical)
-
 ## 🧠 Currently Exploring
 
-- Microservices with Node.js and .NET Core  
-- Scalable API design and message queues  
-- Clean architecture and SOLID principles  
-- Containerization and CI/CD pipelines
+- RESTful API development  
+- Microservices with Node.js and .NET  
+- Scalable system design  
+- CI/CD and Docker fundamentals
 
 ---
 
-Thanks for visiting! Feel free to connect and collaborate. Let's build something amazing! 🚀
+Thanks for visiting! I'm always open to feedback, collaboration, and learning opportunities. 🚀
