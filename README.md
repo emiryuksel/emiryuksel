@@ -22,9 +22,9 @@ I'm a software developer and a computer programming associate degree student, cu
 
 ## 🚀 About Me
 
-- 🎯 Focused on backend technologies like Node.js, Express, and .NET Core  
-- 🧱 Building a solid foundation in clean code and software architecture  
-- 🌱 Exploring new tools, frameworks, and best practices  
+- 🎯 Currently focused on full-stack JavaScript development, especially **Node.js**, **Express**, and **SQL**  
+- 💡 Developing practical skills in **C#** and **.NET Core** to broaden backend expertise  
+- 🧱 Committed to clean code principles, scalable architecture, and real-world project development
 
 ## 🛠️ Technologies I'm Working With
 
