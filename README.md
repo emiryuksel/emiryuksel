@@ -46,4 +46,4 @@ I'm a software developer and a computer programming associate degree student, cu
 
 ---
 
-Thanks for visiting! I'm always open to feedback, collaboration, and learning opportunities. 🚀
+Thanks for visiting! I'm always open to feedback, collaboration, and learning opportunities.
