@@ -13,7 +13,7 @@ I'm a software developer currently learning full-stack development with a focus 
 - 🎯 Focused on backend technologies like Node.js, Express, and .NET Core  
 - 🧱 Building a solid foundation in clean code and software architecture  
 - 🌱 Exploring new tools, frameworks, and best practices  
-- 📫 Reach me at: **hello@emiryuksel.site**
+- 📫 Reach me at: **emiryuksel37@icloud.com**
 - 🌐 Portfolio: [emiryuksel.site](https://emiryuksel.site)
 - 🔗 GitHub: [github.com/emiryuksel](https://github.com/emiryuksel)
 
