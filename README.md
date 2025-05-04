@@ -2,6 +2,13 @@
 
 Welcome to my GitHub!  
 I'm a software developer and a computer programming associate degree student, currently learning full-stack development with a focus on JavaScript, Node.js, and C#. I enjoy solving problems, building projects from scratch, and continuously expanding my skills.
+
+## 🎓 Education
+
+🏛️ **Istanbul Topkapı University**  
+📍 *Associate Degree in Computer Programming*
+📅 *Expected Graduation: 2025*
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical)
