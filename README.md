@@ -14,14 +14,17 @@ I'm a software developer and a computer programming associate degree student, cu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryuksel&layout=compact&theme=radical)
 
+## 🔗 Connect with Me
+
+📫 **Email:** [emiryuksel37@icloud.com](mailto:emiryuksel37@icloud.com)  
+🌐 **Portfolio:** [emiryuksel.site](https://emiryuksel.site)  
+🗃️ **All links:** [linktr.ee/emiryuksel](https://linktr.ee/emiryuksel)
+
 ## 🚀 About Me
 
 - 🎯 Focused on backend technologies like Node.js, Express, and .NET Core  
 - 🧱 Building a solid foundation in clean code and software architecture  
 - 🌱 Exploring new tools, frameworks, and best practices  
-- 📫 Reach me at: **emiryuksel37@icloud.com**
-- 🌐 Portfolio: [emiryuksel.site](https://emiryuksel.site)
-- 🔗 All links: [linktr.ee/emiryuksel](https://linktr.ee/emiryuksel)
 
 ## 🛠️ Technologies I'm Working With
 
