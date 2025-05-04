@@ -16,9 +16,9 @@ I'm a software developer and a computer programming associate degree student, cu
 
 ## 🔗 Connect with Me
 
-📫 **Email:** [emiryuksel37@icloud.com](mailto:emiryuksel37@icloud.com)  
-🌐 **Portfolio:** [emiryuksel.site](https://emiryuksel.site)  
-🗃️ **All links:** [linktr.ee/emiryuksel](https://linktr.ee/emiryuksel)
+- 📫 **Email:** [emiryuksel37@icloud.com](mailto:emiryuksel37@icloud.com)  
+- 🌐 **Portfolio:** [emiryuksel.site](https://emiryuksel.site)  
+- 🗃️ **All links:** [linktr.ee/emiryuksel](https://linktr.ee/emiryuksel)
 
 ## 🚀 About Me
 
