@@ -5,9 +5,9 @@ I'm a software developer and a computer programming associate degree student, cu
 
 ## 🎓 Education
 
--🏛️ **Istanbul Topkapı University**  
--📍 *Associate Degree in Computer Programming*  
--📅 *Expected Graduation: 2025*
+- 🏛️ **Istanbul Topkapı University**  
+- 📍 *Associate Degree in Computer Programming*  
+- 📅 *Expected Graduation: 2025*
 
 ## 📊 GitHub Stats
 
