@@ -7,21 +7,29 @@ I specialize in **JavaScript** and **TypeScript** across the full stack, leverag
 - **Istanbul Topkapı University**  
   *Associate Degree in Computer Programming – Graduate*
 
+## 💼 Experience  
+- **Grower** – *SEO Analyst*  
+  Working on SEO strategies, website performance optimization, and improving search visibility.
+  
+- **Üsküdar Belediyesi** – *Web Development Intern*  
+  Assisted in developing and maintaining municipal web projects, focusing on usability and performance.  
+  
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryuksel&layout=compact&theme=radical)
 
 ## 🔗 Connect
-- **Email:** [emiryuksel37@icloud.com](mailto:emiryuksel37@icloud.com)  
+- **Email:** [emiryukseldev@gmail.com](mailto:emiryukseldev@gmail.com)  
 - **Portfolio:** [emiryuksel.dev](https://emiryuksel.dev)  
 - **Links:** [linktr.ee/emiryuksel](https://linktr.ee/emiryuksel)
 
-## 🚀 About Me
+## ☕ About Me
 - Full-stack development with JavaScript and TypeScript  
 - Backend expertise with Node.js, Express, and database management  
 - Frontend development with modern frameworks  
 - Committed to clean code, modular architecture, and scalability  
 - Always learning and integrating new technologies into projects
+- Experience in SEO optimization for better visibility and performance
 
 ## 🛠️ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
