@@ -8,7 +8,7 @@ I specialize in **JavaScript** and **TypeScript** across the full stack, leverag
   *Associate Degree in Computer Programming – Graduate*
 
 ## 💼 Experience  
-- **withSolver** – *Web Developer*
+- **withSolver** – *Web Developer*  
   Working on full-stack web app and SaaS development, focusing on usability, performance, and scalable solutions.
   
 - **Grower** – *SEO Analyst*  
