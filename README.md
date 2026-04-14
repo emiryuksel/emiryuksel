@@ -8,6 +8,9 @@ I specialize in **JavaScript** and **TypeScript** across the full stack, leverag
   *Associate Degree in Computer Programming – Graduate*
 
 ## 💼 Experience  
+- **withSolver** – *Web Developer*
+  Working on full-stack web app and SaaS development, focusing on usability, performance, and scalable solutions.
+  
 - **Grower** – *SEO Analyst*  
   Working on SEO strategies, website performance optimization, and improving search visibility.
   
@@ -15,10 +18,9 @@ I specialize in **JavaScript** and **TypeScript** across the full stack, leverag
   Assisted in developing and maintaining municipal web projects, focusing on usability and performance.  
   
 ## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats-delta-two-63.vercel.app/api/top-langs?username=emiryuksel&layout=compact&theme=radical&card_width=500&langs_count=8&cache_seconds=86400)
 ![GitHub Stats](https://github-readme-stats-delta-two-63.vercel.app/api?username=emiryuksel&show_icons=true&theme=radical&card_width=500&cache_seconds=86400)
 &nbsp;
-![Top Languages](https://github-readme-stats-delta-two-63.vercel.app/api/top-langs?username=emiryuksel&layout=compact&theme=radical&card_width=500&langs_count=8&cache_seconds=86400)
-
 
 
 ## 🔗 Connect
